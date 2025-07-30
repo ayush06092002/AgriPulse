@@ -1,6 +1,18 @@
 fastapi
-uvicorn
+uvicorn[standard]
 sqlalchemy
 psycopg2-binary
 python-dotenv
-celery[redis]
+
+celery
+redis
+billiard  # ensures compatibility with Celery on Windows if needed
+
+pydantic
+
+pytest
+httpx
+pytest-asyncio
+pytest-cov
+faker
+pytest-dotenv
