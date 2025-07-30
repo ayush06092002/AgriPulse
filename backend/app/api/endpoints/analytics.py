@@ -4,6 +4,8 @@ from sqlalchemy import func
 from app.db.session import SessionLocal
 from app.models.db_models import SensorReading
 from app.tasks.background_tasks import aggregate_hourly_avg
+from celery.result import AsyncResult
+from app.tasks.celery_config import celery_app
 
 router = APIRouter()
 
@@ -13,6 +15,22 @@ def get_db():
         yield db
     finally:
         db.close()
+
+@router.get("/job-status/{task_id}")
+def get_job_status(task_id: str):
+    result = AsyncResult(task_id, app=celery_app)
+
+    response = {
+        "task_id": task_id,
+        "status": result.status,
+    }
+
+    if result.status == "SUCCESS":
+        response["result"] = result.result
+    elif result.status == "FAILURE":
+        response["error"] = str(result.result)
+
+    return response
 
 @router.get("/")
 def get_analytics(

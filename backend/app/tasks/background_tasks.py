@@ -19,9 +19,17 @@ def aggregate_hourly_avg():
             "hour"
         ).all()
 
-        # For now, just log the result
-        for row in result:
-            print(f"[Hourly AVG] {row.field_id} | {row.sensor_type} @ {row.hour} → {round(row.avg_reading, 2)}")
+        output = [
+            {
+                "field_id": row.field_id,
+                "sensor_type": row.sensor_type,
+                "hour": row.hour.isoformat(),
+                "avg_reading": round(row.avg_reading, 2)
+            }
+            for row in result
+        ]
+
+        return output
 
     finally:
         db.close()

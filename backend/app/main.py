@@ -1,6 +1,10 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.api.routes import router as api_router
+from app.models.db_models import Base
+from app.db.session import engine
+
+Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
     title="Field Insights Dashboard API",
