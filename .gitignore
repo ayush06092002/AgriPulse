@@ -209,3 +209,5 @@ __marimo__/
 carbonleap/
 Take-home-assignment.pdf
 *.ipynb
+
+tests/
