@@ -1,0 +1,5252 @@
+[
+  {
+    "timestamp": "2025-07-25T21:38:30Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 20.4,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T18:05:33Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 61.61,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T20:03:38Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 6.25,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-30T04:58:01Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 1389.73,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T12:33:03Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 2.69,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-25T16:25:17Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 91.15,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T06:18:10Z",
+    "field_id": "field_2",
+    "sensor_type": "ph",
+    "reading_value": 5.82,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-25T03:01:41Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 73.51,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-28T18:01:21Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 396.36,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T04:03:53Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 46.63,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-26T01:58:58Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 2.54,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T00:13:23Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 1184.86,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T06:16:13Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 11.0,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T22:13:15Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 54.31,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T05:25:33Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 5.99,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-23T20:34:53Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 82.37,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-26T21:50:59Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 12.02,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-28T06:57:11Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 7.57,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-27T09:19:38Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 4.11,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-24T21:45:51Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 40.14,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-24T07:50:07Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 6.81,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T09:36:59Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 21.08,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T02:10:36Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 6.17,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T17:15:04Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 22.41,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T18:33:14Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 4.38,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-27T20:53:23Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": 35.19,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-28T17:51:27Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": null,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T16:40:17Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 6.32,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-29T21:18:52Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": 41.04,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T10:43:26Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 129.76,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T07:29:22Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 14.22,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-28T04:37:07Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 8.85,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T18:39:49Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 27.68,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T00:16:12Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 59.67,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T00:32:19Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 1122.44,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-24T12:25:54Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 4.27,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T01:58:08Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 171.93,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T21:25:03Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 46.13,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T18:08:48Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": -4.6,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T18:43:38Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 6.41,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T16:48:01Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 7.48,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T12:28:44Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 228.59,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T13:02:05Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 0.14,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T19:17:28Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 25.2,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T15:32:15Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 44.54,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-23T19:07:16Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 25.51,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T00:07:00Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 19.64,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T18:25:49Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 36.73,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-27T03:41:16Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": null,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T13:53:49Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 36.58,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T06:54:35Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 697.05,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T22:04:27Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 84.8,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T19:27:40Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 14.04,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T13:38:00Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": null,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T00:41:01Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 5.69,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-29T06:31:47Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 23.48,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-24T09:08:16Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 35.19,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T22:13:41Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 816.53,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-24T00:59:49Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 32.67,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T00:01:55Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 15.49,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T17:32:55Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": null,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T00:34:36Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 23.0,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-23T19:13:48Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 15.74,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T23:57:25Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 8.15,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-27T21:41:45Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 21.07,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-23T18:45:12Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 4.31,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T20:23:41Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 14.69,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T17:54:24Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 29.08,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T12:42:19Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 324.89,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T12:59:43Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 21.94,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T03:08:46Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 65.96,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T18:41:22Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 29.83,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T16:08:34Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 1.66,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T16:20:30Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 18.17,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-23T22:23:43Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 50.33,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T01:23:00Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": null,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T08:43:45Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 12.62,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T20:41:04Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 28.15,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-24T08:54:01Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 40.23,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-28T04:48:38Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": -2.64,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T18:40:49Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": 22.91,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T03:45:07Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 57.8,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-25T07:55:57Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 6.34,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-26T23:11:57Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 1282.47,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T01:16:12Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 1132.46,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T19:30:58Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 37.02,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T09:29:11Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 516.53,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T00:10:06Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 14.56,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-27T08:56:19Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 6.3,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-27T23:59:18Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 38.91,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-23T21:51:15Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 92.59,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T07:38:49Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": null,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-29T18:00:07Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 19.69,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-24T08:37:31Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 64.03,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T06:30:07Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 50.41,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T21:49:45Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": null,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T14:25:22Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 8.68,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T23:41:40Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 17.58,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T00:38:05Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 20.23,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T15:03:31Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 48.16,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-27T04:33:30Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 8.68,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-25T08:01:24Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 3.19,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T16:22:05Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": 42.62,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T02:45:38Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 1449.08,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T17:24:35Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 34.08,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T02:08:09Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 25.78,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T13:06:41Z",
+    "field_id": "field_2",
+    "sensor_type": "ph",
+    "reading_value": 8.1,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-23T21:02:06Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 24.83,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T08:48:24Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 27.73,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-23T19:06:43Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 5.71,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T21:16:58Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 7.82,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-24T10:12:37Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 343.81,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T03:09:46Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 38.95,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-27T12:37:25Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 0.66,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T19:22:47Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 62.07,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T16:42:23Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 274.31,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T22:08:03Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 22.51,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-23T19:48:05Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": null,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T21:36:09Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 97.65,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T11:05:54Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 67.41,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T02:05:00Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 43.09,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T12:09:21Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 1437.79,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T08:50:52Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 12.57,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-30T17:38:17Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 13.52,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T14:17:05Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 7.74,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-27T01:09:50Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 4.38,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T20:44:02Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 42.15,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T20:42:30Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 15.0,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T07:47:57Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 20.72,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T12:38:51Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 44.99,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T10:12:49Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 29.75,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T08:56:03Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 7.09,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-29T06:23:34Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 487.64,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-24T12:59:50Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 38.11,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T07:59:07Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 64.06,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T18:39:00Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 2.37,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-24T23:52:54Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 908.08,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T17:27:58Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 26.05,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-27T15:11:31Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 72.78,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T17:15:32Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": -0.82,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-30T12:35:06Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 5.38,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T11:47:35Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 4.43,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T13:17:44Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 6.88,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T13:03:12Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 52.67,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-27T19:55:47Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 43.21,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T23:54:43Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 667.27,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-24T12:40:31Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 59.76,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T13:22:21Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 19.19,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T04:36:52Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 22.71,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T02:38:34Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": null,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T08:54:44Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 28.68,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T20:35:35Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 29.96,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T00:29:31Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 6.97,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-27T22:51:15Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 7.5,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-23T21:12:06Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 7.89,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T14:36:12Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 972.69,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T17:53:28Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 5.32,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T12:19:50Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 70.05,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T10:00:49Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": null,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T11:37:23Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 187.56,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-28T10:20:35Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": -9.19,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-26T03:32:30Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 46.37,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T16:04:28Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 26.65,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T19:35:42Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 89.57,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T21:31:06Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 97.46,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T00:18:37Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": null,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T14:46:08Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": 26.63,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T16:21:18Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 237.92,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T03:08:52Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": 16.47,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-26T11:13:22Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 97.33,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T18:09:57Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 79.44,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T15:50:51Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 8.86,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-30T02:47:01Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 77.08,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T00:29:19Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 2.99,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-26T22:08:24Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 16.83,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-27T23:14:51Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": null,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-28T12:12:05Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 89.87,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T17:33:45Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 1045.56,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T05:29:53Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 36.62,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-28T23:35:14Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 53.11,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T06:45:12Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 0.04,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-26T00:28:21Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 61.97,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T10:20:26Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 32.91,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-27T14:36:37Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 15.41,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T18:00:22Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 4.81,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-25T22:37:56Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 87.35,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T16:51:55Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 21.41,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T01:49:39Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 549.53,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T07:38:48Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 8.68,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T17:27:29Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 55.8,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T22:24:45Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 41.18,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-27T22:35:47Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": -5.71,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T16:57:34Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 19.24,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T08:34:34Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 7.31,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-30T03:40:10Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 22.99,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T11:51:06Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 5.0,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T16:19:45Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 26.7,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T13:24:17Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 49.57,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T08:29:02Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 18.25,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T12:13:10Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 1442.48,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T18:54:57Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 59.58,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T13:41:32Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 450.5,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T14:24:40Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 91.91,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-23T23:10:09Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 3.77,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T21:15:07Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 12.49,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-25T06:03:27Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 27.54,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-24T09:58:25Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 48.83,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-23T19:29:09Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": null,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T00:40:02Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 23.4,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-24T07:37:22Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 27.91,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-30T00:40:38Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": 5.41,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T18:54:18Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 50.24,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T11:43:35Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 22.59,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T09:11:24Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 23.59,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T18:39:22Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 74.53,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T02:06:11Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 13.03,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T18:42:29Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 19.81,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T05:35:47Z",
+    "field_id": "field_2",
+    "sensor_type": "ph",
+    "reading_value": 4.82,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-26T11:35:58Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 26.95,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T23:44:37Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": null,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-25T20:39:58Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 41.08,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T02:09:22Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 92.42,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T01:26:11Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 11.24,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T08:18:33Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 1.37,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T22:01:25Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 2.27,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T10:00:23Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 6.85,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-27T23:35:30Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 37.66,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T13:59:09Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 90.17,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T09:17:17Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 697.44,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T17:55:52Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": null,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T06:46:43Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 29.39,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T18:50:40Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 43.34,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T07:26:52Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": null,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T00:36:30Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 734.9,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-25T15:45:34Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 31.26,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T07:26:56Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 938.69,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T19:35:22Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 94.91,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T16:39:29Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 2.63,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T11:46:49Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 5.58,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T19:14:41Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 27.11,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-27T06:45:52Z",
+    "field_id": "field_2",
+    "sensor_type": "ph",
+    "reading_value": 5.89,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-29T19:58:31Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 99.57,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T19:49:25Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 6.78,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T19:58:21Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 83.95,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-29T06:16:22Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 48.06,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-26T14:32:31Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 1168.66,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T13:12:45Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 850.56,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T09:23:47Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 7.95,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T08:17:55Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 18.4,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T13:11:12Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 22.63,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T20:35:35Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 333.83,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T07:28:05Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 5.3,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-26T22:55:36Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 86.68,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T17:48:05Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 73.53,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T21:46:09Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 10.93,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T11:06:59Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 6.92,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-28T08:46:17Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 22.95,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T13:21:44Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 88.44,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T14:51:00Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 29.44,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T14:54:54Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 82.99,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T15:59:25Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 32.83,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T00:11:30Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 41.36,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T13:02:08Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 4.91,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-30T06:47:03Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 9.12,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T16:09:51Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": 28.9,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-30T10:02:21Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": null,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T00:44:11Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 43.57,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-25T04:16:09Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 76.92,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T07:29:30Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 62.65,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T03:33:58Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 7.3,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-24T22:32:17Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 80.75,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T00:38:54Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 7.47,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-27T04:43:27Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 88.22,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T10:12:45Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 5.33,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T10:25:19Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 66.7,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T11:31:20Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": -4.01,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T13:41:18Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 991.39,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T02:49:46Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 74.93,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-23T18:44:28Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 552.85,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T06:02:47Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 1.95,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T09:43:36Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 790.58,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T16:00:57Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 57.14,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-23T21:38:52Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 29.82,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-30T17:58:09Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 913.27,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T13:59:59Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 30.71,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-27T19:35:26Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 80.8,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-23T18:24:54Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": null,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T15:41:54Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 33.98,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T11:28:14Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 28.02,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-26T14:22:36Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 5.64,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-30T09:56:12Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 5.69,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-25T06:59:37Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 19.4,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T12:12:25Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 79.73,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T16:50:32Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 89.59,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T07:16:14Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 29.93,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T15:00:51Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 57.74,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T17:38:40Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 48.48,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-27T17:32:01Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 25.27,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T03:52:21Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": 28.79,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-29T14:54:41Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 14.91,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-28T00:29:07Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 787.65,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T03:22:43Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 91.34,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-25T07:12:39Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 15.41,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T01:34:03Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 214.94,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T20:02:40Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 72.46,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T14:32:57Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": null,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T19:08:32Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": null,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T09:13:06Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 866.34,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-23T20:20:59Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 9.63,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T16:40:39Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 27.27,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T02:48:54Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 19.84,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-28T02:38:15Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 367.24,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T03:45:44Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 22.18,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T01:32:54Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 38.36,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T11:54:39Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 35.56,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T03:07:47Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 21.23,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T20:50:31Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 45.56,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T09:35:50Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 23.17,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T22:41:28Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 588.12,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T01:09:07Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 24.38,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-26T05:30:51Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 84.58,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T08:33:00Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 10.29,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-23T19:02:23Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 32.47,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T01:29:23Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 12.4,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T16:59:29Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 6.61,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T14:48:13Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 17.02,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-24T01:28:47Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 73.94,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T05:54:17Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": 22.78,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T06:37:01Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 30.8,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T03:05:07Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 14.83,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T10:46:37Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 90.33,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-25T14:15:16Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 45.3,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T21:51:16Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 20.57,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T19:28:34Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 1076.69,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-24T03:52:12Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 98.64,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T09:28:35Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 553.83,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T12:31:37Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 43.06,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-25T08:17:01Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 21.35,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-30T13:23:21Z",
+    "field_id": "field_2",
+    "sensor_type": "ph",
+    "reading_value": 6.64,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-23T23:51:29Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 7.71,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-25T09:23:12Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": null,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T11:29:13Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 97.5,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T01:49:55Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 26.81,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-24T07:18:43Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 50.94,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T08:53:48Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 9.29,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-28T15:09:19Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 5.71,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-27T07:17:11Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 56.81,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T21:30:09Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 14.21,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T11:22:43Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 775.42,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T13:24:36Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 7.34,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-24T00:06:39Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 79.16,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T10:59:59Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 51.27,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T15:19:28Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 28.82,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T19:44:29Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 74.94,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T10:21:41Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": 57.81,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T23:16:40Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 40.95,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T08:44:33Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": 3.86,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-26T08:17:30Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 1112.14,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T09:30:42Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 36.98,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T22:02:34Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 5.31,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-27T00:32:41Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 22.75,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-23T22:03:53Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 7.14,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-30T08:01:28Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 7.8,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-25T12:56:34Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": -0.78,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-30T17:19:01Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 7.58,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T22:54:33Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 8.66,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T07:43:47Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": null,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-27T04:30:31Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 30.52,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T21:15:48Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 1203.47,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T20:13:51Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 73.43,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T19:14:50Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": null,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-28T04:01:25Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 12.62,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-26T05:26:59Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 36.26,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-29T00:36:47Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 41.62,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T04:42:19Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": -5.25,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-27T15:18:30Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 69.57,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T10:38:22Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 40.75,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T08:03:53Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 8.1,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-28T18:15:47Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 9.98,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-30T03:10:19Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 660.86,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T02:31:19Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 19.36,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-30T00:59:19Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 18.42,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T21:02:16Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 52.29,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T03:40:30Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 89.65,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T06:10:41Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": 26.64,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T04:58:12Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 70.76,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T08:40:49Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": null,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T20:11:41Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 56.72,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T15:30:05Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 82.79,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T02:24:51Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 42.67,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-26T03:43:17Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": null,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T22:40:23Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 7.63,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-24T02:32:50Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 4.24,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T02:10:52Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 19.31,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T04:57:11Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 6.3,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T17:06:28Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 3.7,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T14:50:20Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": 11.82,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T08:04:38Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 14.9,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T11:24:06Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": null,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T09:09:46Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 70.13,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-23T23:17:27Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 82.07,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T12:56:36Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": -3.72,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T13:58:53Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 13.44,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-26T09:24:57Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 3.62,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T13:18:27Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 38.21,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T09:09:15Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": -2.23,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T13:44:55Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 24.36,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T10:37:59Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 0.47,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-29T19:44:16Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 70.67,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T22:36:05Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 20.62,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T22:00:14Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 28.14,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-29T13:15:10Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 61.2,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T05:22:01Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 628.18,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T04:57:16Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": 9.9,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-26T08:19:59Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 7.97,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-29T19:44:34Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 8.08,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-24T23:21:23Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 17.63,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-29T13:37:07Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 10.48,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T23:59:44Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 10.44,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-23T23:06:46Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 48.51,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T21:19:26Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 57.98,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T11:33:01Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 38.95,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-26T22:19:23Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 11.27,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-24T12:52:34Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 89.05,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T00:01:10Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 38.73,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T17:20:26Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 10.11,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T12:36:09Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 13.65,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T18:03:43Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 21.99,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T15:48:59Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 97.01,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T01:54:41Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 59.16,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T09:24:35Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 7.43,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-28T09:12:01Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 89.83,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-28T02:27:23Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 3.36,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T00:56:05Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 17.24,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T17:51:37Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 3.98,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T03:29:54Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 16.39,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-26T13:23:27Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": 46.38,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T20:09:12Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 62.68,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-24T10:33:00Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 39.14,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-27T17:24:09Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 20.94,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-28T11:47:12Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 7.29,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T04:23:10Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 5.55,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T14:19:14Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 8.76,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-27T12:57:15Z",
+    "field_id": "field_2",
+    "sensor_type": "ph",
+    "reading_value": 8.92,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-26T12:29:21Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 87.11,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T21:36:17Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 6.09,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-26T14:50:39Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 95.05,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T04:22:27Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 29.04,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-26T05:24:15Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 931.43,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T01:02:18Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 39.05,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-30T16:36:56Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 95.83,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T07:01:56Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 17.3,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T22:26:46Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 41.65,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T02:10:18Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 42.01,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-30T05:17:13Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 4.6,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-26T23:43:40Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 28.94,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T03:19:19Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 66.59,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T13:05:01Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 56.73,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-23T22:21:36Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 726.36,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T09:03:13Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 35.31,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T11:36:19Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 28.52,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T14:57:14Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": null,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T14:04:10Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 26.04,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T00:19:28Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 97.8,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T10:35:27Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 30.16,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T08:29:06Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 94.78,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T03:55:33Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 23.7,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-27T03:18:35Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 72.85,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T05:52:03Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 39.51,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T10:03:40Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 602.44,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T02:56:19Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": -6.97,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-30T08:39:21Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 5.38,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-25T21:35:44Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": 11.69,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T17:40:57Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 39.76,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T10:30:12Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 0.37,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-24T16:43:40Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 8.76,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T02:45:26Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 8.66,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-28T23:57:07Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 4.19,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T01:41:02Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 6.64,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-25T08:08:27Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": 31.59,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T04:26:06Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 262.34,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T00:29:56Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 18.6,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T15:07:14Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 83.46,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T18:41:17Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": null,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T06:39:36Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 65.38,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T16:25:01Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 2.84,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T10:14:14Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": 31.01,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-30T07:53:05Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 1461.39,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T10:44:49Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 16.28,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T12:47:08Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 16.33,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T10:08:21Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 14.49,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T02:40:35Z",
+    "field_id": "field_2",
+    "sensor_type": "ph",
+    "reading_value": 7.94,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T07:45:24Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 41.34,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-26T20:06:13Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 26.72,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T21:20:30Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 28.14,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T17:31:06Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 21.79,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T16:46:28Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 15.33,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T15:32:30Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": 34.82,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T01:37:47Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 52.31,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T16:37:54Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 1116.69,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T05:23:06Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 30.74,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T08:39:22Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 2.33,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T19:08:32Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 10.78,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T03:42:59Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": 11.89,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T02:40:00Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 78.24,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T06:52:52Z",
+    "field_id": "field_2",
+    "sensor_type": "ph",
+    "reading_value": null,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T19:13:33Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 521.75,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T17:22:18Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 7.07,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T19:39:58Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 21.7,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T05:28:50Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 92.42,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T16:09:51Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 69.81,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T16:10:41Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 35.91,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T19:12:36Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 5.01,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-25T17:34:06Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": -2.52,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T10:23:03Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 32.81,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T18:29:49Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 338.81,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T00:15:54Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 25.7,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T06:14:13Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 0.64,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T06:13:07Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 15.68,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T04:54:41Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 20.85,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T17:17:03Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 36.37,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T11:29:15Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 6.99,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-23T19:25:19Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 534.15,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T12:44:33Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 27.89,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T23:25:08Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 745.91,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T15:37:34Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 35.67,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-30T06:53:29Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 60.46,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T00:43:06Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 26.36,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T04:03:45Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 29.36,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T11:07:57Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 27.33,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-25T01:56:46Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 11.51,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T16:19:18Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 3.29,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T01:43:13Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 737.22,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T01:41:00Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 56.89,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T22:28:44Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 56.23,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T10:54:50Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 886.57,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-24T01:24:58Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 92.14,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T08:16:57Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 40.48,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T05:42:50Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 4.87,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-26T09:11:34Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 33.06,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T10:16:32Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 37.79,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T22:13:30Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 23.05,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T03:14:43Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 0.61,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-26T14:52:48Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 28.52,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-28T09:22:36Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 69.09,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T11:36:37Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 30.74,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T15:31:33Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 84.04,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T05:41:21Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 99.62,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T16:02:10Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": -4.79,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-27T03:24:16Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 20.97,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-30T13:29:47Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 1206.19,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T12:31:38Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 6.31,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-25T15:17:40Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 62.78,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T00:58:29Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 66.08,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T14:29:39Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 1213.4,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T07:24:35Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 20.06,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T02:42:17Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 615.39,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T21:42:46Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 5.7,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T12:11:35Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 5.57,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-29T22:33:11Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 728.07,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T03:54:35Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 15.94,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T11:23:40Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 263.98,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T03:48:47Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 5.53,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T14:22:58Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 1350.86,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T02:15:38Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 41.87,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T03:26:12Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": 30.4,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-28T20:20:27Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 1326.85,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T14:12:19Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 41.62,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T10:03:22Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 5.48,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-29T02:31:52Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 612.56,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-24T18:55:08Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 15.82,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-25T16:03:36Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 544.5,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T00:51:02Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 3.48,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T04:59:29Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 25.3,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T01:56:18Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 26.75,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-23T19:39:37Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": 92.75,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T20:18:33Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 5.45,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-30T00:30:46Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 39.47,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-28T16:19:22Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 73.69,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T15:32:58Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 24.73,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T21:14:39Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 30.11,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T05:35:22Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 76.2,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T08:36:33Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 0.31,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-23T19:18:25Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": -1.32,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-30T13:57:05Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 68.58,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T06:53:24Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 26.07,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T11:39:47Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 126.6,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T21:34:55Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 6.73,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-24T23:57:56Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 8.88,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-27T16:19:22Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 40.1,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-23T21:23:05Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": -0.64,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-28T03:23:21Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 24.82,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T01:58:43Z",
+    "field_id": "field_2",
+    "sensor_type": "ph",
+    "reading_value": 8.76,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-26T01:22:39Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 13.02,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T04:24:33Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 627.5,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T10:28:26Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 353.23,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T04:34:55Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 1.03,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T10:15:40Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 21.4,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T09:24:29Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 142.92,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T21:40:05Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 8.59,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T09:15:02Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 25.37,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T08:26:54Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 3.97,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-28T19:36:36Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 16.99,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T08:23:36Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 8.96,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T00:16:05Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 469.9,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-23T22:21:45Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 1389.36,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-30T16:29:14Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 469.52,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-24T20:55:24Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 55.57,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-23T21:06:33Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 18.89,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T04:54:12Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 16.36,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T06:21:19Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 44.15,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T05:25:24Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 11.25,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T03:40:42Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 10.19,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-25T05:39:33Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 1336.34,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T11:25:06Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 76.68,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T22:26:59Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 7.55,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-25T09:22:28Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 10.55,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-30T07:13:54Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 1.44,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-28T22:09:32Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 62.84,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T16:42:53Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 32.81,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-26T20:44:21Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 86.33,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T22:51:44Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 54.72,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T19:05:54Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 360.12,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T16:03:19Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 16.29,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T18:50:18Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 29.85,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T15:20:25Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 196.93,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-29T04:40:24Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 6.5,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-30T14:37:20Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 22.69,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T22:31:38Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 2.79,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T18:09:17Z",
+    "field_id": "field_2",
+    "sensor_type": "ph",
+    "reading_value": 8.69,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-26T12:34:47Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": 15.75,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-27T18:55:47Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 1476.28,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T22:05:58Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 6.42,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-28T02:54:55Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 10.76,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T18:24:23Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": 382.29,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-25T05:15:02Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": -0.12,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-28T09:58:59Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 38.22,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T12:18:16Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 62.38,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T15:15:19Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 18.51,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T00:58:25Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": null,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-23T19:29:31Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 46.02,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T19:24:10Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 61.85,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T13:49:59Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 2.63,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T14:13:15Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_moisture",
+    "reading_value": 85.9,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-23T23:04:43Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 8.29,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-26T01:41:12Z",
+    "field_id": "field_3",
+    "sensor_type": "temperature",
+    "reading_value": 32.33,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T17:08:42Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 39.63,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T20:49:06Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 1.96,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T03:18:18Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 1244.18,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-24T12:38:19Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 43.87,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-29T04:50:51Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 731.24,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T07:55:08Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 71.43,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T00:34:32Z",
+    "field_id": "field_5",
+    "sensor_type": "rainfall",
+    "reading_value": 3.18,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T01:26:32Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 49.48,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T07:24:32Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 4.84,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-28T09:41:21Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 50.76,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T07:41:03Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 88.32,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-25T06:23:42Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 23.88,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T05:14:50Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 7.61,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-29T00:59:05Z",
+    "field_id": "field_2",
+    "sensor_type": "humidity",
+    "reading_value": 15.63,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T07:42:45Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 23.47,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T05:23:36Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 17.85,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-28T00:44:02Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 33.77,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-25T12:29:48Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 5.66,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-25T06:55:34Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 26.75,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T01:26:31Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 40.96,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T16:54:58Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 32.99,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-26T10:32:37Z",
+    "field_id": "field_5",
+    "sensor_type": "temperature",
+    "reading_value": -7.69,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-26T15:31:18Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 5.21,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-27T03:40:47Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 15.43,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T12:27:19Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 14.15,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-27T07:12:43Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 6.04,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-24T04:41:17Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 18.03,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-25T00:09:34Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 4.14,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T10:16:13Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 79.46,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-27T23:54:15Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 71.76,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T07:35:33Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 20.08,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-25T12:41:16Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 19.81,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T12:53:20Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 97.27,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T21:18:44Z",
+    "field_id": "field_3",
+    "sensor_type": "sunlight",
+    "reading_value": null,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T11:58:11Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 44.62,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T10:40:35Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 88.77,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T23:23:37Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 4.88,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-29T08:15:39Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 99.19,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T20:52:05Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 511.06,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-28T22:17:37Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 1248.34,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T03:15:09Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 36.29,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-26T20:12:49Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 31.61,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-25T01:19:26Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": 33.9,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T06:43:10Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 5.85,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-25T20:03:11Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 51.97,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T17:02:16Z",
+    "field_id": "field_3",
+    "sensor_type": "ph",
+    "reading_value": 6.54,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-26T21:51:03Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 2.77,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-28T23:25:20Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 4.85,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-29T12:39:06Z",
+    "field_id": "field_3",
+    "sensor_type": "wind_speed",
+    "reading_value": 17.53,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-24T12:56:00Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 82.38,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-28T09:51:43Z",
+    "field_id": "field_2",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 96.8,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-27T09:20:45Z",
+    "field_id": "field_4",
+    "sensor_type": "ph",
+    "reading_value": 6.63,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-27T03:49:25Z",
+    "field_id": "field_1",
+    "sensor_type": "rainfall",
+    "reading_value": 30.08,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T22:49:14Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 784.17,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T15:47:09Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": null,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-29T08:00:59Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 28.1,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-29T22:35:27Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 0.21,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T17:58:45Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": 48.12,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T02:48:19Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 23.76,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T09:49:21Z",
+    "field_id": "field_5",
+    "sensor_type": "humidity",
+    "reading_value": 63.65,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T18:51:11Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 8.93,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-27T21:58:33Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": 27.01,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-24T21:12:40Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 64.59,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T07:02:48Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": 967.74,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-28T10:43:20Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_moisture",
+    "reading_value": 52.18,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T12:09:48Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 65.83,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-30T12:20:32Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 367.93,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T17:11:38Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 80.69,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-24T22:44:23Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": null,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-26T14:49:31Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 25.79,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-27T02:54:48Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 19.8,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T21:28:04Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 6.87,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-24T12:57:57Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 1.36,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-26T15:09:53Z",
+    "field_id": "field_2",
+    "sensor_type": "rainfall",
+    "reading_value": 20.64,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T22:44:29Z",
+    "field_id": "field_1",
+    "sensor_type": "temperature",
+    "reading_value": 1.14,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-27T04:34:58Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 75.24,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-29T00:54:29Z",
+    "field_id": "field_3",
+    "sensor_type": "soil_moisture",
+    "reading_value": 46.48,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-23T20:39:26Z",
+    "field_id": "field_2",
+    "sensor_type": "wind_speed",
+    "reading_value": null,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-30T13:21:28Z",
+    "field_id": "field_2",
+    "sensor_type": "temperature",
+    "reading_value": 31.96,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-30T09:00:52Z",
+    "field_id": "field_4",
+    "sensor_type": "wind_speed",
+    "reading_value": 2.52,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T19:48:48Z",
+    "field_id": "field_3",
+    "sensor_type": "humidity",
+    "reading_value": 54.04,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-29T11:38:10Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": null,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-25T09:01:13Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": 0.81,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-24T11:37:43Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 1498.86,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-23T23:38:00Z",
+    "field_id": "field_1",
+    "sensor_type": "sunlight",
+    "reading_value": 242.12,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-26T22:16:15Z",
+    "field_id": "field_4",
+    "sensor_type": "temperature",
+    "reading_value": 28.41,
+    "unit": "\u00b0C"
+  },
+  {
+    "timestamp": "2025-07-28T11:05:51Z",
+    "field_id": "field_4",
+    "sensor_type": "sunlight",
+    "reading_value": 316.28,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-27T21:24:14Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 48.98,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-24T22:58:23Z",
+    "field_id": "field_3",
+    "sensor_type": "rainfall",
+    "reading_value": 10.53,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-26T07:42:41Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": null,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-23T19:02:03Z",
+    "field_id": "field_4",
+    "sensor_type": "humidity",
+    "reading_value": 55.58,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T10:43:29Z",
+    "field_id": "field_5",
+    "sensor_type": "wind_speed",
+    "reading_value": 2.43,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T02:50:53Z",
+    "field_id": "field_4",
+    "sensor_type": "soil_moisture",
+    "reading_value": 67.22,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T20:14:42Z",
+    "field_id": "field_4",
+    "sensor_type": "rainfall",
+    "reading_value": 8.86,
+    "unit": "mm"
+  },
+  {
+    "timestamp": "2025-07-30T03:00:08Z",
+    "field_id": "field_1",
+    "sensor_type": "soil_moisture",
+    "reading_value": 46.27,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-28T21:19:30Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 7.91,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-24T11:42:15Z",
+    "field_id": "field_1",
+    "sensor_type": "ph",
+    "reading_value": 8.17,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-30T03:12:45Z",
+    "field_id": "field_2",
+    "sensor_type": "ph",
+    "reading_value": 8.91,
+    "unit": null
+  },
+  {
+    "timestamp": "2025-07-24T09:21:20Z",
+    "field_id": "field_5",
+    "sensor_type": "soil_nitrogen",
+    "reading_value": 20.91,
+    "unit": "mg/kg"
+  },
+  {
+    "timestamp": "2025-07-26T05:06:15Z",
+    "field_id": "field_1",
+    "sensor_type": "wind_speed",
+    "reading_value": 26.1,
+    "unit": "m/s"
+  },
+  {
+    "timestamp": "2025-07-26T21:41:56Z",
+    "field_id": "field_5",
+    "sensor_type": "ph",
+    "reading_value": 7.52,
+    "unit": "pH units"
+  },
+  {
+    "timestamp": "2025-07-25T07:23:22Z",
+    "field_id": "field_1",
+    "sensor_type": "humidity",
+    "reading_value": 12.74,
+    "unit": "%"
+  },
+  {
+    "timestamp": "2025-07-24T20:38:48Z",
+    "field_id": "field_2",
+    "sensor_type": "sunlight",
+    "reading_value": null,
+    "unit": "W/m^2"
+  },
+  {
+    "timestamp": "2025-07-23T23:29:26Z",
+    "field_id": "field_5",
+    "sensor_type": "sunlight",
+    "reading_value": null,
+    "unit": "W/m^2"
+  }
+]
