@@ -1,7 +1,7 @@
 import axios from "axios";
 import toast from "react-hot-toast";
 
-const BASE_URL = "http://localhost:8000"; // change if hosted
+const BASE_URL = "https://optimistic-happiness-production.up.railway.app/";
 
 export async function sendSensorData(dataBatch) {
   try {
