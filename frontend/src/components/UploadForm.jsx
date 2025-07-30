@@ -27,20 +27,26 @@ export default function UploadForm() {
       if (!Array.isArray(parsed)) return toast.error("JSON must be an array");
 
       let count = 0;
+      let batchCount = 0;
       for (const record of parsed) {
         if (getQueue().length >= MAX_QUEUE_SIZE) {
-          toast("Queue full. Sending batch...");
+          toast.loading("Sending batch...", { id: "flush-toast" });
           await flushQueue();
+          toast.dismiss("flush-toast");
+          batchCount++;
         }
         enqueueData(record);
         count++;
       }
 
       if (getQueue().length > 0) {
+        toast.loading("Sending final batch...", { id: "flush-toast" });
         await flushQueue();
+        toast.dismiss("flush-toast");
+        batchCount++;
       }
 
-      toast.success(`Uploaded ${count} records`);
+      toast.success(`Uploaded ${count} records in ${batchCount} batches`);
     } catch (err) {
       toast.error("Invalid JSON format");
       console.error(err);
