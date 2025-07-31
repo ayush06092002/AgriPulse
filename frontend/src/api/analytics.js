@@ -14,7 +14,7 @@ export async function triggerAnalyticsJob(setResult) {
   const loadingToast = toast.loading("Job started...");
 
   const poll = setInterval(async () => {
-    const statusRes = await fetch(`https://optimistic-happiness-production.up.railway.app//analytics/job-status/${task_id}`);
+    const statusRes = await fetch(`https://optimistic-happiness-production.up.railway.app/analytics/job-status/${task_id}`);
     const data = await statusRes.json();
 
     if (data.status === "SUCCESS") {

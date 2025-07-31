@@ -3,7 +3,7 @@ import axios from "axios";
 import toast from "react-hot-toast";
 import { triggerAnalyticsJob } from "../api/analytics";
 
-const BASE_URL = "https://optimistic-happiness-production.up.railway.app/";
+const BASE_URL = "https://optimistic-happiness-production.up.railway.app";
 
 export default function JobStatus() {
   const [result, setResult] = useState(null);

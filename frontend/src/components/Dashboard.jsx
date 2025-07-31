@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import toast from "react-hot-toast";
 
-const BASE_URL = "https://optimistic-happiness-production.up.railway.app/";
+const BASE_URL = "https://optimistic-happiness-production.up.railway.app";
 
 const SENSOR_TYPES = [
   "soil_moisture",
