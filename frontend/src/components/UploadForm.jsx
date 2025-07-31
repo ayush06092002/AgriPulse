@@ -62,18 +62,21 @@ export default function UploadForm() {
   return (
     <div className="p-4 border rounded shadow w-full max-w-xl mx-auto mt-6 bg-white">
       <h2 className="text-xl font-semibold mb-4">Upload Sensor Data (JSON)</h2>
-      <input
-        type="file"
-        accept=".json"
-        onChange={handleFileChange}
-        className="mb-3"
-      />
-      <button
-        onClick={handleUpload}
-        className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
-      >
-        Upload
-      </button>
+      
+      <div className="flex items-center justify-between">
+        <input
+          type="file"
+          accept=".json"
+          onChange={handleFileChange}
+          className="mb-3"
+        />
+        <button
+          onClick={handleUpload}
+          className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 ml-4"
+        >
+          Upload
+        </button>
+      </div>
     </div>
   );
 }

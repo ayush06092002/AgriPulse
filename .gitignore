@@ -211,3 +211,4 @@ Take-home-assignment.pdf
 *.ipynb
 
 tests/
+node_modules/
