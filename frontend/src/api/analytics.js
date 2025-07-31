@@ -22,7 +22,6 @@ export async function triggerAnalyticsJob(setResult) {
       toast.success("Analytics completed ✅");
       clearInterval(poll);
 
-      console.log("Result:", data.result);
       setResult(data.result); // ✅ this updates the UI
 
     } else if (data.status === "FAILURE") {
