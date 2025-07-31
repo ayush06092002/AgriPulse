@@ -4,7 +4,7 @@ from app.db.session import SessionLocal
 from app.models.db_models import SensorReading
 from sqlalchemy import func
 
-@celery_app.task
+@celery_app.task(name="app.tasks.background_tasks.aggregate_hourly_avg")
 def aggregate_hourly_avg():
     db: Session = SessionLocal()
     try:

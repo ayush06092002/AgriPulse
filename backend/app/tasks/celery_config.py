@@ -12,6 +12,8 @@ celery_app = Celery(
     backend=CELERY_BROKER_URL
 )
 
+celery_app.autodiscover_tasks(["app.tasks"])
+
 # Required SSL configs for rediss:// (Upstash)
 if CELERY_BROKER_URL.startswith("rediss://"):
     ssl_config = {
