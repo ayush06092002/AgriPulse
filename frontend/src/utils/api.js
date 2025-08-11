@@ -1,7 +1,8 @@
 import axios from "axios";
 import toast from "react-hot-toast";
+import { API_BASE_URL } from "../config/api";
 
-const BASE_URL = "https://optimistic-happiness-production.up.railway.app";
+const BASE_URL = API_BASE_URL;
 
 export async function sendSensorData(dataBatch) {
   try {

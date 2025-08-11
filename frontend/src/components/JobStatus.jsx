@@ -14,8 +14,9 @@ import {
   Legend,
   ResponsiveContainer,
 } from "recharts";
+import { API_BASE_URL } from "../config/api";
 
-const BASE_URL = "https://optimistic-happiness-production.up.railway.app";
+const BASE_URL = API_BASE_URL;
 
 const groupDataByFieldAndSensor = (data) => {
   const grouped = {};

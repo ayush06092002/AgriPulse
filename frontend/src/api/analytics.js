@@ -1,7 +1,8 @@
 import toast from "react-hot-toast";
+import { API_BASE_URL } from "../config/api";
 
 export async function triggerAnalyticsJob(setResult) {
-  const triggerRes = await fetch("https://optimistic-happiness-production.up.railway.app/analytics/trigger", {
+  const triggerRes = await fetch(`${API_BASE_URL}/analytics/trigger`, {
     method: "POST",
   });
 
@@ -14,7 +15,7 @@ export async function triggerAnalyticsJob(setResult) {
   const loadingToast = toast.loading("Job started...");
 
   const poll = setInterval(async () => {
-    const statusRes = await fetch(`https://optimistic-happiness-production.up.railway.app/analytics/job-status/${task_id}`);
+    const statusRes = await fetch(`${API_BASE_URL}/analytics/job-status/${task_id}`);
     const data = await statusRes.json();
 
     if (data.status === "SUCCESS") {
