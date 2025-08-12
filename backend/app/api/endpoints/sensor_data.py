@@ -4,16 +4,9 @@ from typing import List
 
 from app.schemas.sensor import SensorReadingIn
 from app.models.db_models import SensorReading
-from app.db.session import SessionLocal
+from app.db.session import get_db
 
 router = APIRouter()
-
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
 
 @router.post("/")
 async def ingest_sensor_data(

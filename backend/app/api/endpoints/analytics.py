@@ -1,20 +1,13 @@
 from fastapi import APIRouter, Depends, Query, HTTPException, status
 from sqlalchemy.orm import Session
 from sqlalchemy import func
-from app.db.session import SessionLocal
+from app.db.session import SessionLocal, get_db
 from app.models.db_models import SensorReading
 from app.tasks.background_tasks import aggregate_hourly_avg
 from celery.result import AsyncResult
 from app.tasks.celery_config import celery_app
 
 router = APIRouter()
-
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
 
 @router.get("/job-status/{task_id}")
 def get_job_status(task_id: str):
