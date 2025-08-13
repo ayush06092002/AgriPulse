@@ -16,7 +16,7 @@ def aggregate_hourly_avg():
         ).filter(SensorReading.reading_value != None).group_by(
             SensorReading.field_id,
             SensorReading.sensor_type,
-            "hour"
+            func.date_trunc('hour', SensorReading.timestamp)  # Use actual expression, not string!
         ).all()
 
         output = [
